@@ -1,7 +1,7 @@
 # iMacros-KingdomLikes-BOT
 iMacros bot to generate points automatically in KingdomLikes.
 
-# Requeriments
+# Requirements
 - Mozilla Firefox 55.0.3 [Download here](https://www.mozilla.org/firefox/download/thanks/)
 - iMacros [Download here](https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/)
 
@@ -15,8 +15,8 @@ iMacros bot to generate points automatically in KingdomLikes.
 # Recommendations
 - Create a fake Facebook account to give the likes, you won't like having a lot of spam in your personal account.
 - You can have a KingdomLikes session in normal Firefox and another in Private Browsing.
-- Beware of your ram! A lot of loops will have Mozilla Firefox consuming a lot of RAM over time.
-- You can leave it all night and generate points while you're sleeping 8)
+- Beware of your RAM! A lot of loops will have Mozilla Firefox consuming a lot of RAM over time.
+- You can leave it all night and generate points while you're sleeping 8).
 
 # Screenshots
 
